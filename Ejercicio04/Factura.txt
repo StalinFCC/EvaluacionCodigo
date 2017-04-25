@@ -1,0 +1,10 @@
+Factura{objDomicilio=null, arraylstItems=[LineItems{dbCantidad=1.0, objProducto=200.0El precio Total es:200.0} 
+, LineItems{dbCantidad=1.0, objProducto=120.0El precio Total es:120.0} 
+, LineItems{dbCantidad=1.0, objProducto=150.0El precio Total es:150.0} 
+]}|
+Domicilio{strNombre=UTPL, strCalle=San Cayetano Alto, strCiudad=LOja, strEstado=Ecuador}
+Factura{objDomicilio=null, arraylstItems=[LineItems{dbCantidad=1.0, objProducto=200.0El precio Total es:200.0} 
+, LineItems{dbCantidad=1.0, objProducto=120.0El precio Total es:120.0} 
+, LineItems{dbCantidad=1.0, objProducto=150.0El precio Total es:150.0} 
+]}|
+Domicilio{strNombre=UTPL, strCalle=San Cayetano Alto, strCiudad=LOja, strEstado=Ecuador}
